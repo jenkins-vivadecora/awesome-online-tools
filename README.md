@@ -3,6 +3,9 @@
 Useful and awesome online tools that often I use. 
 No download, no signup required.
 
+## Code generator
+* [json2ts](http://json2ts.com/) - generate TypeScript interfaces from JSON
+
 ## Regex
 * [AutoRegex](https://www.autoregex.xyz/) - Convert from English to RegEx with Natural Language Processing
 * [Regex101](https://regex101.com/) - Build, test and debug regular expressions
